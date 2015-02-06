@@ -101,6 +101,6 @@ google_analytics_tracking_id:
 facebook_like: false
 
 #Last.fm
-lastfm_apikey: <3d0cf1f8e434284f7c986ed22aefc654>
-lastfm_user: <comradcompadre>
-lastfm_count: <17>
+lastfm_apikey: 3d0cf1f8e434284f7c986ed22aefc654
+lastfm_user: comradcompadre
+lastfm_count: 7
