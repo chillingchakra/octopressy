@@ -16,3 +16,5 @@ There isn't really a lot of interaction on Instagram though, it's just hearts an
 So some of my better stuff is on Facebook, as such, I found a neat plugin that should allow for an embed and will proceed to try it out below and then RAKE that shit.
 
 {% facebook_embedded_post https://www.facebook.com/tselkove/posts/10154755269440475 %}
+
+<br>
